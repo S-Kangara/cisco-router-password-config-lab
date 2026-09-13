@@ -4,10 +4,10 @@
 
 Two Cisco 1941 routers (R1 and R2) connected via their GigabitEthernet0/0 interfaces.
 
-![Topology](topology-diagram.png)
+![Topology](topology-diagram.png.png)
 
 ## Lab File
-- `lab.pkt` - Packet Tracer file for this lab
+- `002 - Basic Router Security Configuration 2` - Packet Tracer file for this lab
 
 ## Steps & Answers
 
